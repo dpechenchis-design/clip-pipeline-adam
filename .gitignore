@@ -1,0 +1,21 @@
+# Video files (too large for git)
+*.mov
+*.mp4
+*.avi
+*.mkv
+*.webm
+*.m4v
+
+# Output clips (generated)
+clips/
+
+# Temp files
+temp/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Claude Code local settings
+.claude/settings.local.json
